@@ -18,9 +18,12 @@
   "ciudades": [
     {"id":1, 
      "nombre":"Prueba1",
-     "recursos":[
-       
-     ]
+     "recursos":{
+       "comida" : {"carne_cerdo" : 5000, "manzanas" : 5000},
+       "materiales" : {"madera" : 5000, "piedra" : 0},
+       "lujo" : {"oro" : 0, "incienso" : 0},
+       "otros" : {"cerdos" : 10}
+     }
     },
     {"id":2, 
      "nombre":"Prueba2"}
