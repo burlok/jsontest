@@ -16,7 +16,7 @@
     "name": "typicode"
   },
   "ciudades": [
-    {"_id":1, "nombre":"Prueba1"},
-    {"_id":2, "nombre":"Prueba2"}
+    {"id":1, "nombre":"Prueba1"},
+    {"id":2, "nombre":"Prueba2"}
   ]
 }
