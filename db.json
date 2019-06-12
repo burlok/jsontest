@@ -1,1 +1,11 @@
-[{id:1,nombre:'Javier'},{id:2,nombre:'Pedro'}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
